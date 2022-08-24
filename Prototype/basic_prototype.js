@@ -48,4 +48,3 @@ console.log(socrates.mortal)
 console.log(human.isPrototypeOf(socrates));
 
 
-
